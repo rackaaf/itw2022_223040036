@@ -1,0 +1,33 @@
+body {
+	background-color: aqua;
+	font-family: georgia;
+}
+
+h1 {
+	font-family: comic sans mc;
+	font-size: 60px;
+	color: darkblue;
+	text-align: center;
+}
+
+h4 {
+	text-align: right;
+	font-style: italic;
+}
+
+h3 span {
+	color: white;
+}
+
+.center {
+	text-align: right;
+}
+
+.warna {
+	color: orange;
+	text-align: center;
+}
+
+h3 a {
+	color: white;
+}

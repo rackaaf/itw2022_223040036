@@ -1,0 +1,46 @@
+body {
+	background-color: white;
+	background-image: url(img/background.png);
+	background-repeat: repeat-x;
+	font-family: georgia;
+}
+
+h1 {
+	font-family: comic sans ms;
+	font-size: 60px;
+	color: darkblue;
+	text-align: center;
+}
+
+h4 {
+	text-align: center;
+	font-style: italic;
+}
+
+h3 {
+	text-align: center;
+}
+
+.center a {
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.center {
+	text-align: right;
+}
+
+.warna {
+	color: orange;
+	text-align: center;
+}
+
+h3 a {
+	color: red;
+}
+
+p a:hover {
+	background-color: blue;
+	color: white;
+	text-decoration: none;
+}
