@@ -1,0 +1,98 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font: 16px/28px arial, sans-serif;
+	background-color: #eaeaea;
+	color: #333;
+	background-image: url(../latihan3/img/cork-board.png);
+}
+
+.container {
+	width: 800px;
+	margin: auto;
+	background-color: black;
+	color: white;
+}
+
+.header {
+	padding: 20px;
+	padding-bottom: 10px;
+}
+
+.judul {
+	font-family: "Silkscreen", cursive;
+}
+
+.header ul li {
+	display: inline-block;
+	margin-top: 20px;
+	margin-right: 10px;
+}
+
+.header a {
+	text-decoration: none;
+	color: deeppink;
+	padding: 3px;
+}
+
+.header a:hover {
+	background-color: turquoise;
+	color: white;
+	transition: 0.3s ease-in-out;
+}
+
+.hero {
+	height: 280px;
+	background-image: url(../latihan3/img/pshero1.png);
+	background-size: cover;
+	background-position: 0;
+	border-top: 5px solid deeppink;
+	border-bottom: 5px solid turquoise;
+}
+
+.content {
+	padding: 20px;
+}
+
+.content .penulis {
+	font-size: 11px;
+	margin-top: -5px;
+}
+
+.content .penulis a {
+	color: deeppink;
+	text-decoration: none;
+}
+
+.content .penulis a:hover {
+	background-color: turquoise;
+	color: white;
+	transition: 0.3s ease-in-out;
+}
+
+.content p {
+	margin-bottom: 20px;
+	font-size: 14px;
+}
+.content img {
+	height: 200px;
+	padding-top: 5px;
+}
+
+.sumber a {
+	color: deeppink;
+}
+
+.footer {
+	background-color: deeppink;
+	padding: 10px;
+}
+
+.footer .copy {
+	color: turquoise;
+	text-align: center;
+	font-size: 12px;
+}
